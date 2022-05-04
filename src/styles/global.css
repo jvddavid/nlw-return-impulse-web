@@ -1,0 +1,11 @@
+/*
+Author: João Victor David de Oliveira (j.victordavid2@gmail.com)
+global.css (c) 2022
+Desc: description
+Created:  2022-05-03T20:35:39.624Z
+Modified: 2022-05-03T20:39:58.518Z
+*/
+
+body {
+  @apply bg-[#09090A] text-zinc-100;
+}
